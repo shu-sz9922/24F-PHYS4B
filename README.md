@@ -7,6 +7,7 @@
 [Physics for Scientists & Engineers 10th Edition](https://archive.org/details/physics-for-scientist-and-engineers-by-serway-and-jewett-10th-edition/mode/2up)
 -# **Note:** THW problems are taken from the 8th edition. You can find them on Canvas [here](https://deanza.instructure.com/courses/37473/files/folder/THW).
 
+
 [The Feynman Lectures on Physics, Volume II](https://www.feynmanlectures.caltech.edu/II_toc.html)
 
 ## Dr. Francis Office Hours
